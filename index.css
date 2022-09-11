@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    padding: 10px 20px;
+    border: 1px solid black;
+}
+
+.activeBtn{
+    background-color: rgb(34, 34, 74);
+    color: white;
+}
