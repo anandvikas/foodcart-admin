@@ -1,0 +1,39 @@
+.breadcrumb{
+    padding: 10px;
+    background-color: rgb(231, 231, 231);
+    margin-bottom: 30px;
+}
+
+.breadcrumbLink{
+    text-decoration: none;
+    font-size: 12px;
+    color: gray;
+}
+
+
+.breadcrumbLink:hover{
+    color: rgb(37, 186, 255);
+}
+
+.successSpan{
+    background-color: rgb(158, 224, 158);
+    padding: 2px 5px;
+    border-radius: 5px;
+    color: rgb(5, 90, 5);
+}
+
+.errorSpan{
+    background-color: rgb(224, 158, 158);
+    padding: 2px 5px;
+    border-radius: 5px;
+    color: rgb(90, 5, 5);
+}
+
+.keywordSpan{
+    background-color: rgb(179, 179, 179);
+    padding: 2px 5px;
+    border-radius: 5px;
+    margin: 5px;
+    color: rgb(0, 0, 0);
+}
+
